@@ -1,2 +1,2 @@
-# coding_huntar
+# Bloging Website
 Simple web site using python html css 
